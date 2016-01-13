@@ -23,7 +23,7 @@ function encode($str, $count){
     $str = $count.$str;
     $str = base64_encode($str);
     return urlencode($str);
-
+dianrong.com
 }
  ?>
 }
