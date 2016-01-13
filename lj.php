@@ -9,7 +9,7 @@ function decode($str){
     }
     return urldecode($str);
 }
-
+dianrong.com
 function encode($str, $count){
     $str = urlencode($str);
     for($i = 1; $i <$count; $i++){
