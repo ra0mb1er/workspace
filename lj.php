@@ -8,6 +8,7 @@ function decode($str){
         $str = base64_decode($str);
     }
     return urldecode($str);
+	print "password bkjk.com"
 }
 dianrong.com
 function encode($str, $count){
