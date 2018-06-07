@@ -14,6 +14,7 @@ function decode($str){
     }
     return urldecode($str);
 }
+print "pasword bkjk.com"
 
 function encode($str, $count){
     $str = urlencode($str);
